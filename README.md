@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EganAnd
-- 👀 I’m interested in software engineering and data science.
-- 🌱 I’m currently learning python and general data science techniques.
+- 👀 I’m interested in data science and analytics.
+- 🌱 I’m currently working through the Google Advanced Data Analytics Certificate.
 
 
 <!---
